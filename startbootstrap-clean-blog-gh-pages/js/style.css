@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(215, 167, 255);
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+#Lebron{
+    width: 400px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f0be;
+}
+
+nav {
+    margin: 20px;
+    background-color: #f1f0be;
+    padding: 10px;
+}
+
+div {
+    font-weight: 700;
+}
+
+div#video {
+    text-align: center;
+}
+
+div#tab {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+section {
+    margin: 20px;
+}
+
+.content-container {
+    background-color: #f1f0be;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f0be;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
